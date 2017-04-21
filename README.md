@@ -1,0 +1,2 @@
+# SpartanLAN
+A offline homepage.
